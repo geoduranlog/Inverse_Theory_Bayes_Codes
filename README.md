@@ -1,6 +1,6 @@
 # Inverse_Theory_Bayes_Codes
 
-This repository is a compendium of codes I made during the course "Inverse Problem Theory - A Bayesian Approach".  This course was given by Prof. Klaus Mosegaard, during his visit at ETH in I-2017.
+This repository is a compendium of codes I made during the course "Inverse Problem Theory - A Bayesian Approach".  This course was given by Prof. Klaus Mosegaard, during his visit at ETH Zurich in I-2017.
 
 The most interesting results are in the solutions of assignements 4 and 5, where I solved the inversion problem given the data of an horizontal slice of 3D seismic reflection data.
 
